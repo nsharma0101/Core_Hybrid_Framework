@@ -1,0 +1,8 @@
+<suite name="TestAll">
+
+<test name = "GmailLogin" allow-return-values="true">
+  <classes>
+     <class name = "com.selenium.hybrid.testcases"/>
+  </classes>
+  </test>
+</suite>
